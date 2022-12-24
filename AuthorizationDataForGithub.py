@@ -1,2 +1,2 @@
-ariel_password = ''
-ariel_login = ''
+epic_password = ''
+epic_login = ''
