@@ -1,0 +1,6 @@
+Waukesha Spare Parts Database
+
+This scripts used to download BOM  for Waukesha engines..
+For using this script you have to enter the login and password from Epic into the file AuthorizationDataForGithub.py .
+
+
